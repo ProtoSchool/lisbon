@@ -1,8 +1,10 @@
-# ⚓ ProtoSchool Lisbon ☀
+# ⚓ ProtoSchool Lisbon Chapter ☀
 
-Welcome to the Lisbon chapter of [ProtoSchool](https://proto.school)!
+Welcome to the Lisbon chapter of [ProtoSchool](https://proto.school)! 👋
 
-We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
+We want to focus on education and connecting the community of Lisbon about the decentralized web, storage and networking technologies! Everyone is welcome to join us!
+
+[Interested in helping organizing the first event?](https://github.com/ProtoSchool/lisbon/issues/4) [Or perhaps you want to join the team?](#organizers)
 
 ## 😄 Organizers
 
