@@ -4,7 +4,7 @@ Welcome to the Lisbon chapter of [ProtoSchool](https://proto.school)! 👋
 
 We want to focus on education and connecting the community of Lisbon about the decentralized web, storage and networking technologies! Everyone is welcome to join us!
 
-[Interested in helping organizing the first event?](https://github.com/ProtoSchool/lisbon/issues/4) [Or perhaps you want to join the team?](#organizers)
+[Interested in helping organizing the first event?](https://github.com/ProtoSchool/lisbon/issues/4) [Or perhaps you want to join the team?](#-organizers)
 
 ## 😄 Organizers
 
