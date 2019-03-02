@@ -1,5 +1,8 @@
 # ⚓ ProtoSchool Lisbon Chapter ☀
 
+[![](https://img.shields.io/badge/%F0%9F%93%9A%20start-learning-blueviolet.svg?style=for-the-badge&logo=%F0%9F%91%8B)](https://proto.school/#/)
+[![](https://img.shields.io/badge/🆘%20help-organizing-red.svg?style=for-the-badge)](https://github.com/ProtoSchool/lisbon/issues/4)
+
 Welcome to the Lisbon chapter of [ProtoSchool](https://proto.school)! 👋
 
 We want to focus on education and connecting the community of Lisbon about the decentralized web, storage and networking technologies! Everyone is welcome to join us!
