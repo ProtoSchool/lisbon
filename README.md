@@ -26,4 +26,4 @@ By participating in this project (online and at live chapter events) you agree t
 
 ## ⚖ License
 
-ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](https://github.com/protoschool/seattle/blob/master/LICENSE.md) for further detail.
+ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](./LICENSE.md) for further detail.
