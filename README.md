@@ -1,4 +1,17 @@
-# ⚓ ProtoSchool Lisbon Chapter ☀
+# [ARCHIVED] ⚓ ProtoSchool Lisbon Chapter ☀
+
+
+*******************************
+
+### THIS REPO IS NO LONGER IN USE AND HAS BEEN ARCHIVED.
+
+This repo has been archived as part of the transition to ProtoSchool's new local event leadership model, [announced](https://github.com/ProtoSchool/organizing/issues/84) in March of 2020. If this group is still hosting ProtoSchool workshops, they'll be listed on our events page.
+
+**Please visit our [events page](https://proto.school/#/events) to find upcoming workshops near you** and learn more about the groups hosting them. 
+
+**Learn more about [hosting events](https://proto.school/#/host)** under our new model, which makes it easier than ever for newcomers to start hosting ProtoSchool workshops based on our interactive [tutorials](https://proto.school/#/tutorials).
+
+*********************************
 
 [![](https://img.shields.io/badge/%F0%9F%93%9A%20start-learning-blueviolet.svg?style=for-the-badge&logo=%F0%9F%91%8B)](https://proto.school/#/)
 [![](https://img.shields.io/badge/🆘%20help-organizing-red.svg?style=for-the-badge)](https://github.com/ProtoSchool/lisbon/issues/4)
